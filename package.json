@@ -1,0 +1,27 @@
+{
+  "name": "fastify-api-kewl",
+  "version": "1.0.0",
+  "description": "Experimenting with Fastify.js library",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimit2801/fastify-api-kewl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimit2801/fastify-api-kewl/issues"
+  },
+  "homepage": "https://github.com/nimit2801/fastify-api-kewl#readme",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "fastify-jwt": "^3.0.0",
+    "fastify-swagger": "^4.7.0",
+    "gogoanime-api": "^0.0.5"
+  }
+}
